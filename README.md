@@ -48,7 +48,7 @@ The **Age Calculator** is a simple and interactive web application that helps us
 ---
 
 ## Demo
-Check out the live demo here: [Live Demo](https://yourusername.github.io/age-calculator)
+Check out the live demo here: [Live Demo](https://naveen-kumarj.github.io/Age_Calculator/)
 
 ---
 
